@@ -26,6 +26,6 @@ Pour utiliser ce projet, suivez les étapes suivantes :
 
 Ce projet utilise le moteur de jeu Godot Engine version 3.5.3.
 
-## Auteurs
+## Auteur
 
 - [Frédéric Turcq-Santucci](https://github.com/fturcq-santucci/)
